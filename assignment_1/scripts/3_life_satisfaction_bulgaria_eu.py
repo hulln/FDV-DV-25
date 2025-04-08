@@ -222,8 +222,8 @@ plotter = Plotter(
     color_eu=COLOR_EU
 )
 
-plotter.create_plot().save_plot('assignment_1/3_life_satisfaction_bulgaria_eu.png')
+plotter.create_plot().save_plot('assignment_1/output/3_life_satisfaction_bulgaria_eu.png')
 
-print('✅ Final clean life satisfaction plot saved with dynamic N!')
+print('✅ Life satisfaction plot saved!')
 
 # --- END ---

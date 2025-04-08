@@ -181,8 +181,8 @@ class RidgePlotter:
 
         plt.subplots_adjust(top=0.88, bottom=0.32)
 
-        plt.savefig(f"assignment_1/{self.filename}", bbox_inches='tight', dpi=300, facecolor="#F5F5F5")
-        plt.savefig(f"assignment_1/{self.filename.replace('.png', '.svg')}", bbox_inches='tight', format='svg', facecolor="#F5F5F5")
+        plt.savefig(f"assignment_1/output/{self.filename}", bbox_inches='tight', dpi=300, facecolor="#F5F5F5")
+        plt.savefig(f"assignment_1/output/{self.filename.replace('.png', '.svg')}", bbox_inches='tight', format='svg', facecolor="#F5F5F5")
         plt.close()
 
 # --- Main script ---
@@ -282,6 +282,6 @@ RidgePlotter(
     legend_label=LEGEND_COLORS
 ).create_plot()
 
-print("✅ All plots (individual + overlay-ready with subtitles) created successfully!")
+print("✅ All plots saved successfully!")
 
 # --- END ---

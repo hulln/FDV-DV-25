@@ -122,10 +122,9 @@ class Plotter:
         plt.subplots_adjust(left=0.12, right=0.92, top=0.84, bottom=0.22)
 
         # Save
-        plt.savefig(f"assignment_1/4_openness_vs_age_by_religion_{suffix}.png", bbox_inches='tight')
-        plt.savefig(f"assignment_1/4_openness_vs_age_by_religion_{suffix}.pdf", bbox_inches='tight')
+        plt.savefig(f"assignment_1/output/4_openness_vs_age_by_religion_{suffix}.png", bbox_inches='tight')
+        plt.savefig(f"assignment_1/output/4_openness_vs_age_by_religion_{suffix}.pdf", bbox_inches='tight')
         plt.close()
-        print(f"✅ Saved: openness_vs_age_by_religion_{suffix}.png/pdf")
 
 # --- Configuration ---
 FILE_PATH = "ESS10-subset.csv"
@@ -167,6 +166,6 @@ plotter.plot_version(
     suffix="bw"
 )
 
-print('✅ Done!')
+print('✅ Openness plots saved!')
 
 # --- END ---

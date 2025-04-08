@@ -208,8 +208,8 @@ total_n = data_processor.get_total_observations()
 
 # Initialize plotter and create plot
 plotter = Plotter(data_processor, x_labels)
-plotter.create_bar_plot().customize_plot(total_n).save_and_show_plot('assignment_1/1_bar_chart.png')
+plotter.create_bar_plot().customize_plot(total_n).save_and_show_plot('assignment_1/output/1_bar_chart.png')
 
-print('✅ Final clean bar chart saved with dynamic N!')
+print('✅ Bar chart saved!')
 
 # --- END ---

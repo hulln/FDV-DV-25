@@ -196,8 +196,8 @@ total_n = data_processor.get_total_observations()
 
 # Initialize plotter and create plot
 plotter = Plotter(data_processor, x_labels)
-plotter.create_line_plot().customize_plot(total_n).save_and_show_plot('assignment_1/1_line_chart.png')
+plotter.create_line_plot().customize_plot(total_n).save_and_show_plot('assignment_1/output/1_line_chart.png')
 
-print('✅ Line chart with dynamic N saved!')
+print('✅ Line chart saved!')
 
 # --- END ---
