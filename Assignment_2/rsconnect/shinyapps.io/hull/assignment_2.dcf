@@ -1,0 +1,12 @@
+name: assignment_2
+title:
+username: hull
+account: hull
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14753382
+bundleId: 10346570
+url: https://hull.shinyapps.io/assignment_2/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

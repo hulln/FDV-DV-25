@@ -1,0 +1,700 @@
+Municipality,Type,Year,Variable,Value,Unit
+Bled,Tourist,2023,Overnights,1082546,nights
+Bohinj,Tourist,2023,Overnights,823190,nights
+Bovec,Tourist,2023,Overnights,557872,nights
+Celje,Capital,2023,Overnights,58789,nights
+Koper,Capital,2023,Overnights,360128,nights
+Kranj,Capital,2023,Overnights,120143,nights
+Kranjska Gora,Tourist,2023,Overnights,961144,nights
+Ljubljana,Capital,2023,Overnights,2299336,nights
+Maribor,Capital,2023,Overnights,531614,nights
+Murska Sobota,Capital,2023,Overnights,31938,nights
+Nova Gorica,Capital,2023,Overnights,178236,nights
+Novo mesto,Capital,2023,Overnights,57310,nights
+Piran,Tourist,2023,Overnights,1818936,nights
+Bled,Tourist,2008,Migration,2.8,per 1000 residents
+Slovenija,Country,2008,Migration,9.2,per 1000 residents
+Bohinj,Tourist,2008,Migration,7.7,per 1000 residents
+Bovec,Tourist,2008,Migration,-1.9,per 1000 residents
+Celje,Capital,2008,Migration,4.5,per 1000 residents
+Koper,Capital,2008,Migration,24.7,per 1000 residents
+Kranj,Capital,2008,Migration,8.2,per 1000 residents
+Kranjska Gora,Tourist,2008,Migration,-10.9,per 1000 residents
+Ljubljana,Capital,2008,Migration,26.4,per 1000 residents
+Maribor,Capital,2008,Migration,6.1,per 1000 residents
+Murska Sobota,Capital,2008,Migration,-5.2,per 1000 residents
+Nova Gorica,Capital,2008,Migration,7.7,per 1000 residents
+Novo mesto,Capital,2008,Migration,8.4,per 1000 residents
+Piran,Tourist,2008,Migration,-1.7,per 1000 residents
+Bled,Tourist,2009,Migration,1.1,per 1000 residents
+Slovenija,Country,2009,Migration,5.6,per 1000 residents
+Bohinj,Tourist,2009,Migration,8.7,per 1000 residents
+Bovec,Tourist,2009,Migration,2.8,per 1000 residents
+Celje,Capital,2009,Migration,-5.0,per 1000 residents
+Koper,Capital,2009,Migration,19.9,per 1000 residents
+Kranj,Capital,2009,Migration,6.6,per 1000 residents
+Kranjska Gora,Tourist,2009,Migration,-11.1,per 1000 residents
+Ljubljana,Capital,2009,Migration,14.2,per 1000 residents
+Maribor,Capital,2009,Migration,4.0,per 1000 residents
+Murska Sobota,Capital,2009,Migration,-5.0,per 1000 residents
+Nova Gorica,Capital,2009,Migration,3.5,per 1000 residents
+Novo mesto,Capital,2009,Migration,9.0,per 1000 residents
+Piran,Tourist,2009,Migration,29.2,per 1000 residents
+Bled,Tourist,2010,Migration,-4.7,per 1000 residents
+Slovenija,Country,2010,Migration,-0.3,per 1000 residents
+Bohinj,Tourist,2010,Migration,-3.0,per 1000 residents
+Bovec,Tourist,2010,Migration,16.3,per 1000 residents
+Celje,Capital,2010,Migration,-6.4,per 1000 residents
+Koper,Capital,2010,Migration,7.2,per 1000 residents
+Kranj,Capital,2010,Migration,-0.3,per 1000 residents
+Kranjska Gora,Tourist,2010,Migration,0.6,per 1000 residents
+Ljubljana,Capital,2010,Migration,-1.4,per 1000 residents
+Maribor,Capital,2010,Migration,-3.6,per 1000 residents
+Murska Sobota,Capital,2010,Migration,-1.9,per 1000 residents
+Nova Gorica,Capital,2010,Migration,-1.3,per 1000 residents
+Novo mesto,Capital,2010,Migration,4.3,per 1000 residents
+Piran,Tourist,2010,Migration,0.4,per 1000 residents
+Bled,Tourist,2011,Migration,1.8,per 1000 residents
+Slovenija,Country,2011,Migration,1.0,per 1000 residents
+Bohinj,Tourist,2011,Migration,-10.3,per 1000 residents
+Bovec,Tourist,2011,Migration,-19.0,per 1000 residents
+Celje,Capital,2011,Migration,-1.4,per 1000 residents
+Koper,Capital,2011,Migration,4.6,per 1000 residents
+Kranj,Capital,2011,Migration,2.7,per 1000 residents
+Kranjska Gora,Tourist,2011,Migration,7.0,per 1000 residents
+Ljubljana,Capital,2011,Migration,-0.8,per 1000 residents
+Maribor,Capital,2011,Migration,0.2,per 1000 residents
+Murska Sobota,Capital,2011,Migration,1.0,per 1000 residents
+Nova Gorica,Capital,2011,Migration,-5.1,per 1000 residents
+Novo mesto,Capital,2011,Migration,-1.4,per 1000 residents
+Piran,Tourist,2011,Migration,-4.8,per 1000 residents
+Bled,Tourist,2012,Migration,-2.2,per 1000 residents
+Slovenija,Country,2012,Migration,0.3,per 1000 residents
+Bohinj,Tourist,2012,Migration,2.5,per 1000 residents
+Bovec,Tourist,2012,Migration,4.1,per 1000 residents
+Celje,Capital,2012,Migration,-1.2,per 1000 residents
+Koper,Capital,2012,Migration,2.5,per 1000 residents
+Kranj,Capital,2012,Migration,-2.4,per 1000 residents
+Kranjska Gora,Tourist,2012,Migration,0.0,per 1000 residents
+Ljubljana,Capital,2012,Migration,5.6,per 1000 residents
+Maribor,Capital,2012,Migration,1.4,per 1000 residents
+Murska Sobota,Capital,2012,Migration,-2.9,per 1000 residents
+Nova Gorica,Capital,2012,Migration,-2.2,per 1000 residents
+Novo mesto,Capital,2012,Migration,-6.0,per 1000 residents
+Piran,Tourist,2012,Migration,13.7,per 1000 residents
+Bled,Tourist,2013,Migration,-1.3,per 1000 residents
+Slovenija,Country,2013,Migration,0.2,per 1000 residents
+Bohinj,Tourist,2013,Migration,-1.9,per 1000 residents
+Bovec,Tourist,2013,Migration,-14.5,per 1000 residents
+Celje,Capital,2013,Migration,1.3,per 1000 residents
+Koper,Capital,2013,Migration,19.4,per 1000 residents
+Kranj,Capital,2013,Migration,-2.4,per 1000 residents
+Kranjska Gora,Tourist,2013,Migration,11.9,per 1000 residents
+Ljubljana,Capital,2013,Migration,7.5,per 1000 residents
+Maribor,Capital,2013,Migration,8.8,per 1000 residents
+Murska Sobota,Capital,2013,Migration,-5.4,per 1000 residents
+Nova Gorica,Capital,2013,Migration,-4.1,per 1000 residents
+Novo mesto,Capital,2013,Migration,-2.0,per 1000 residents
+Piran,Tourist,2013,Migration,-4.4,per 1000 residents
+Bled,Tourist,2014,Migration,-10.6,per 1000 residents
+Slovenija,Country,2014,Migration,-0.2,per 1000 residents
+Bohinj,Tourist,2014,Migration,-2.7,per 1000 residents
+Bovec,Tourist,2014,Migration,-0.3,per 1000 residents
+Celje,Capital,2014,Migration,-3.5,per 1000 residents
+Koper,Capital,2014,Migration,-7.7,per 1000 residents
+Kranj,Capital,2014,Migration,0.1,per 1000 residents
+Kranjska Gora,Tourist,2014,Migration,-2.4,per 1000 residents
+Ljubljana,Capital,2014,Migration,2.3,per 1000 residents
+Maribor,Capital,2014,Migration,4.0,per 1000 residents
+Murska Sobota,Capital,2014,Migration,1.4,per 1000 residents
+Nova Gorica,Capital,2014,Migration,2.0,per 1000 residents
+Novo mesto,Capital,2014,Migration,-2.5,per 1000 residents
+Piran,Tourist,2014,Migration,6.2,per 1000 residents
+Bled,Tourist,2015,Migration,-13.1,per 1000 residents
+Slovenija,Country,2015,Migration,0.2,per 1000 residents
+Bohinj,Tourist,2015,Migration,0.4,per 1000 residents
+Bovec,Tourist,2015,Migration,-1.0,per 1000 residents
+Celje,Capital,2015,Migration,4.6,per 1000 residents
+Koper,Capital,2015,Migration,1.7,per 1000 residents
+Kranj,Capital,2015,Migration,-0.2,per 1000 residents
+Kranjska Gora,Tourist,2015,Migration,3.4,per 1000 residents
+Ljubljana,Capital,2015,Migration,1.5,per 1000 residents
+Maribor,Capital,2015,Migration,-1.0,per 1000 residents
+Murska Sobota,Capital,2015,Migration,1.1,per 1000 residents
+Nova Gorica,Capital,2015,Migration,2.4,per 1000 residents
+Novo mesto,Capital,2015,Migration,1.4,per 1000 residents
+Piran,Tourist,2015,Migration,2.1,per 1000 residents
+Bled,Tourist,2016,Migration,-6.6,per 1000 residents
+Slovenija,Country,2016,Migration,0.5,per 1000 residents
+Bohinj,Tourist,2016,Migration,6.2,per 1000 residents
+Bovec,Tourist,2016,Migration,-9.0,per 1000 residents
+Celje,Capital,2016,Migration,5.1,per 1000 residents
+Koper,Capital,2016,Migration,5.2,per 1000 residents
+Kranj,Capital,2016,Migration,-3.8,per 1000 residents
+Kranjska Gora,Tourist,2016,Migration,3.0,per 1000 residents
+Ljubljana,Capital,2016,Migration,-0.1,per 1000 residents
+Maribor,Capital,2016,Migration,-4.4,per 1000 residents
+Murska Sobota,Capital,2016,Migration,-0.3,per 1000 residents
+Nova Gorica,Capital,2016,Migration,1.7,per 1000 residents
+Novo mesto,Capital,2016,Migration,-4.7,per 1000 residents
+Piran,Tourist,2016,Migration,-0.4,per 1000 residents
+Bled,Tourist,2017,Migration,-10.0,per 1000 residents
+Slovenija,Country,2017,Migration,0.6,per 1000 residents
+Bohinj,Tourist,2017,Migration,-3.1,per 1000 residents
+Bovec,Tourist,2017,Migration,-1.6,per 1000 residents
+Celje,Capital,2017,Migration,1.0,per 1000 residents
+Koper,Capital,2017,Migration,8.1,per 1000 residents
+Kranj,Capital,2017,Migration,-5.4,per 1000 residents
+Kranjska Gora,Tourist,2017,Migration,-4.6,per 1000 residents
+Ljubljana,Capital,2017,Migration,0.6,per 1000 residents
+Maribor,Capital,2017,Migration,2.1,per 1000 residents
+Murska Sobota,Capital,2017,Migration,-3.5,per 1000 residents
+Nova Gorica,Capital,2017,Migration,-3.7,per 1000 residents
+Novo mesto,Capital,2017,Migration,1.1,per 1000 residents
+Piran,Tourist,2017,Migration,-6.5,per 1000 residents
+Bled,Tourist,2018,Migration,-4.5,per 1000 residents
+Slovenija,Country,2018,Migration,7.2,per 1000 residents
+Bohinj,Tourist,2018,Migration,1.0,per 1000 residents
+Bovec,Tourist,2018,Migration,4.3,per 1000 residents
+Celje,Capital,2018,Migration,2.5,per 1000 residents
+Koper,Capital,2018,Migration,9.6,per 1000 residents
+Kranj,Capital,2018,Migration,3.8,per 1000 residents
+Kranjska Gora,Tourist,2018,Migration,4.0,per 1000 residents
+Ljubljana,Capital,2018,Migration,10.9,per 1000 residents
+Maribor,Capital,2018,Migration,14.6,per 1000 residents
+Murska Sobota,Capital,2018,Migration,3.1,per 1000 residents
+Nova Gorica,Capital,2018,Migration,6.6,per 1000 residents
+Novo mesto,Capital,2018,Migration,12.6,per 1000 residents
+Piran,Tourist,2018,Migration,4.5,per 1000 residents
+Bled,Tourist,2019,Migration,4.8,per 1000 residents
+Slovenija,Country,2019,Migration,7.8,per 1000 residents
+Bohinj,Tourist,2019,Migration,14.1,per 1000 residents
+Bovec,Tourist,2019,Migration,12.0,per 1000 residents
+Celje,Capital,2019,Migration,3.3,per 1000 residents
+Koper,Capital,2019,Migration,8.6,per 1000 residents
+Kranj,Capital,2019,Migration,11.6,per 1000 residents
+Kranjska Gora,Tourist,2019,Migration,13.8,per 1000 residents
+Ljubljana,Capital,2019,Migration,7.6,per 1000 residents
+Maribor,Capital,2019,Migration,8.6,per 1000 residents
+Murska Sobota,Capital,2019,Migration,6.2,per 1000 residents
+Nova Gorica,Capital,2019,Migration,5.7,per 1000 residents
+Novo mesto,Capital,2019,Migration,13.0,per 1000 residents
+Piran,Tourist,2019,Migration,1.9,per 1000 residents
+Bled,Tourist,2020,Migration,44.6,per 1000 residents
+Slovenija,Country,2020,Migration,8.7,per 1000 residents
+Bohinj,Tourist,2020,Migration,85.4,per 1000 residents
+Bovec,Tourist,2020,Migration,56.4,per 1000 residents
+Celje,Capital,2020,Migration,-6.8,per 1000 residents
+Koper,Capital,2020,Migration,13.8,per 1000 residents
+Kranj,Capital,2020,Migration,1.6,per 1000 residents
+Kranjska Gora,Tourist,2020,Migration,402.3,per 1000 residents
+Ljubljana,Capital,2020,Migration,-1.9,per 1000 residents
+Maribor,Capital,2020,Migration,15.9,per 1000 residents
+Murska Sobota,Capital,2020,Migration,2.3,per 1000 residents
+Nova Gorica,Capital,2020,Migration,3.1,per 1000 residents
+Novo mesto,Capital,2020,Migration,-4.8,per 1000 residents
+Piran,Tourist,2020,Migration,44.6,per 1000 residents
+Bled,Tourist,2021,Migration,8.9,per 1000 residents
+Slovenija,Country,2021,Migration,1.2,per 1000 residents
+Bohinj,Tourist,2021,Migration,20.4,per 1000 residents
+Bovec,Tourist,2021,Migration,-15.9,per 1000 residents
+Celje,Capital,2021,Migration,-4.3,per 1000 residents
+Koper,Capital,2021,Migration,5.4,per 1000 residents
+Kranj,Capital,2021,Migration,-8.3,per 1000 residents
+Kranjska Gora,Tourist,2021,Migration,40.3,per 1000 residents
+Ljubljana,Capital,2021,Migration,-4.9,per 1000 residents
+Maribor,Capital,2021,Migration,-1.0,per 1000 residents
+Murska Sobota,Capital,2021,Migration,2.8,per 1000 residents
+Nova Gorica,Capital,2021,Migration,2.0,per 1000 residents
+Novo mesto,Capital,2021,Migration,3.5,per 1000 residents
+Piran,Tourist,2021,Migration,3.5,per 1000 residents
+Bled,Tourist,2022,Migration,-6.1,per 1000 residents
+Slovenija,Country,2022,Migration,7.0,per 1000 residents
+Bohinj,Tourist,2022,Migration,-41.7,per 1000 residents
+Bovec,Tourist,2022,Migration,-38.0,per 1000 residents
+Celje,Capital,2022,Migration,5.1,per 1000 residents
+Koper,Capital,2022,Migration,10.0,per 1000 residents
+Kranj,Capital,2022,Migration,9.6,per 1000 residents
+Kranjska Gora,Tourist,2022,Migration,-252.3,per 1000 residents
+Ljubljana,Capital,2022,Migration,11.0,per 1000 residents
+Maribor,Capital,2022,Migration,4.7,per 1000 residents
+Murska Sobota,Capital,2022,Migration,12.1,per 1000 residents
+Nova Gorica,Capital,2022,Migration,11.1,per 1000 residents
+Novo mesto,Capital,2022,Migration,10.9,per 1000 residents
+Piran,Tourist,2022,Migration,-4.4,per 1000 residents
+Bled,Tourist,2023,Migration,-1.8,per 1000 residents
+Slovenija,Country,2023,Migration,5.4,per 1000 residents
+Bohinj,Tourist,2023,Migration,-30.8,per 1000 residents
+Bovec,Tourist,2023,Migration,4.9,per 1000 residents
+Celje,Capital,2023,Migration,12.1,per 1000 residents
+Koper,Capital,2023,Migration,9.7,per 1000 residents
+Kranj,Capital,2023,Migration,-0.5,per 1000 residents
+Kranjska Gora,Tourist,2023,Migration,-111.3,per 1000 residents
+Ljubljana,Capital,2023,Migration,5.5,per 1000 residents
+Maribor,Capital,2023,Migration,11.5,per 1000 residents
+Murska Sobota,Capital,2023,Migration,2.8,per 1000 residents
+Nova Gorica,Capital,2023,Migration,1.1,per 1000 residents
+Novo mesto,Capital,2023,Migration,7.3,per 1000 residents
+Piran,Tourist,2023,Migration,-2.7,per 1000 residents
+Bled,Tourist,2008,Average Age,42.7,years
+Slovenija,Country,2008,Average Age,41.1,years
+Bohinj,Tourist,2008,Average Age,42.4,years
+Bovec,Tourist,2008,Average Age,44.2,years
+Celje,Capital,2008,Average Age,42.0,years
+Koper,Capital,2008,Average Age,42.3,years
+Kranj,Capital,2008,Average Age,40.7,years
+Kranjska Gora,Tourist,2008,Average Age,43.6,years
+Ljubljana,Capital,2008,Average Age,42.4,years
+Maribor,Capital,2008,Average Age,43.8,years
+Murska Sobota,Capital,2008,Average Age,41.9,years
+Nova Gorica,Capital,2008,Average Age,42.5,years
+Novo mesto,Capital,2008,Average Age,39.4,years
+Piran,Tourist,2008,Average Age,43.3,years
+Bled,Tourist,2009,Average Age,42.9,years
+Slovenija,Country,2009,Average Age,41.3,years
+Bohinj,Tourist,2009,Average Age,42.6,years
+Bovec,Tourist,2009,Average Age,44.7,years
+Celje,Capital,2009,Average Age,42.0,years
+Koper,Capital,2009,Average Age,42.3,years
+Kranj,Capital,2009,Average Age,40.8,years
+Kranjska Gora,Tourist,2009,Average Age,43.7,years
+Ljubljana,Capital,2009,Average Age,41.8,years
+Maribor,Capital,2009,Average Age,43.4,years
+Murska Sobota,Capital,2009,Average Age,42.9,years
+Nova Gorica,Capital,2009,Average Age,43.1,years
+Novo mesto,Capital,2009,Average Age,39.9,years
+Piran,Tourist,2009,Average Age,43.3,years
+Bled,Tourist,2010,Average Age,43.0,years
+Slovenija,Country,2010,Average Age,41.4,years
+Bohinj,Tourist,2010,Average Age,43.1,years
+Bovec,Tourist,2010,Average Age,44.9,years
+Celje,Capital,2010,Average Age,42.4,years
+Koper,Capital,2010,Average Age,42.3,years
+Kranj,Capital,2010,Average Age,40.9,years
+Kranjska Gora,Tourist,2010,Average Age,44.2,years
+Ljubljana,Capital,2010,Average Age,41.8,years
+Maribor,Capital,2010,Average Age,43.7,years
+Murska Sobota,Capital,2010,Average Age,43.2,years
+Nova Gorica,Capital,2010,Average Age,43.1,years
+Novo mesto,Capital,2010,Average Age,40.1,years
+Piran,Tourist,2010,Average Age,43.4,years
+Bled,Tourist,2011,Average Age,43.4,years
+Slovenija,Country,2011,Average Age,41.7,years
+Bohinj,Tourist,2011,Average Age,43.3,years
+Bovec,Tourist,2011,Average Age,44.9,years
+Celje,Capital,2011,Average Age,42.6,years
+Koper,Capital,2011,Average Age,42.5,years
+Kranj,Capital,2011,Average Age,41.0,years
+Kranjska Gora,Tourist,2011,Average Age,44.5,years
+Ljubljana,Capital,2011,Average Age,41.9,years
+Maribor,Capital,2011,Average Age,43.9,years
+Murska Sobota,Capital,2011,Average Age,43.5,years
+Nova Gorica,Capital,2011,Average Age,43.4,years
+Novo mesto,Capital,2011,Average Age,40.2,years
+Piran,Tourist,2011,Average Age,43.7,years
+Bled,Tourist,2012,Average Age,43.5,years
+Slovenija,Country,2012,Average Age,41.9,years
+Bohinj,Tourist,2012,Average Age,43.9,years
+Bovec,Tourist,2012,Average Age,45.3,years
+Celje,Capital,2012,Average Age,42.8,years
+Koper,Capital,2012,Average Age,42.6,years
+Kranj,Capital,2012,Average Age,41.2,years
+Kranjska Gora,Tourist,2012,Average Age,44.9,years
+Ljubljana,Capital,2012,Average Age,42.0,years
+Maribor,Capital,2012,Average Age,44.2,years
+Murska Sobota,Capital,2012,Average Age,43.9,years
+Nova Gorica,Capital,2012,Average Age,43.6,years
+Novo mesto,Capital,2012,Average Age,40.4,years
+Piran,Tourist,2012,Average Age,44.0,years
+Bled,Tourist,2013,Average Age,43.8,years
+Slovenija,Country,2013,Average Age,42.1,years
+Bohinj,Tourist,2013,Average Age,44.1,years
+Bovec,Tourist,2013,Average Age,45.5,years
+Celje,Capital,2013,Average Age,42.9,years
+Koper,Capital,2013,Average Age,42.8,years
+Kranj,Capital,2013,Average Age,41.4,years
+Kranjska Gora,Tourist,2013,Average Age,46.0,years
+Ljubljana,Capital,2013,Average Age,41.9,years
+Maribor,Capital,2013,Average Age,44.3,years
+Murska Sobota,Capital,2013,Average Age,44.2,years
+Nova Gorica,Capital,2013,Average Age,43.8,years
+Novo mesto,Capital,2013,Average Age,40.7,years
+Piran,Tourist,2013,Average Age,44.1,years
+Bled,Tourist,2014,Average Age,44.1,years
+Slovenija,Country,2014,Average Age,42.3,years
+Bohinj,Tourist,2014,Average Age,44.3,years
+Bovec,Tourist,2014,Average Age,46.4,years
+Celje,Capital,2014,Average Age,43.1,years
+Koper,Capital,2014,Average Age,42.8,years
+Kranj,Capital,2014,Average Age,41.5,years
+Kranjska Gora,Tourist,2014,Average Age,46.6,years
+Ljubljana,Capital,2014,Average Age,41.9,years
+Maribor,Capital,2014,Average Age,44.3,years
+Murska Sobota,Capital,2014,Average Age,44.7,years
+Nova Gorica,Capital,2014,Average Age,44.0,years
+Novo mesto,Capital,2014,Average Age,41.0,years
+Piran,Tourist,2014,Average Age,44.4,years
+Bled,Tourist,2015,Average Age,44.3,years
+Slovenija,Country,2015,Average Age,42.5,years
+Bohinj,Tourist,2015,Average Age,44.5,years
+Bovec,Tourist,2015,Average Age,46.6,years
+Celje,Capital,2015,Average Age,43.3,years
+Koper,Capital,2015,Average Age,43.1,years
+Kranj,Capital,2015,Average Age,41.7,years
+Kranjska Gora,Tourist,2015,Average Age,47.1,years
+Ljubljana,Capital,2015,Average Age,42.0,years
+Maribor,Capital,2015,Average Age,44.5,years
+Murska Sobota,Capital,2015,Average Age,45.0,years
+Nova Gorica,Capital,2015,Average Age,44.2,years
+Novo mesto,Capital,2015,Average Age,41.2,years
+Piran,Tourist,2015,Average Age,44.6,years
+Bled,Tourist,2016,Average Age,44.7,years
+Slovenija,Country,2016,Average Age,42.7,years
+Bohinj,Tourist,2016,Average Age,44.7,years
+Bovec,Tourist,2016,Average Age,47.1,years
+Celje,Capital,2016,Average Age,43.4,years
+Koper,Capital,2016,Average Age,43.4,years
+Kranj,Capital,2016,Average Age,41.9,years
+Kranjska Gora,Tourist,2016,Average Age,47.4,years
+Ljubljana,Capital,2016,Average Age,42.2,years
+Maribor,Capital,2016,Average Age,44.7,years
+Murska Sobota,Capital,2016,Average Age,45.3,years
+Nova Gorica,Capital,2016,Average Age,44.4,years
+Novo mesto,Capital,2016,Average Age,41.3,years
+Piran,Tourist,2016,Average Age,44.9,years
+Bled,Tourist,2017,Average Age,45.1,years
+Slovenija,Country,2017,Average Age,43.0,years
+Bohinj,Tourist,2017,Average Age,44.8,years
+Bovec,Tourist,2017,Average Age,47.4,years
+Celje,Capital,2017,Average Age,43.6,years
+Koper,Capital,2017,Average Age,43.5,years
+Kranj,Capital,2017,Average Age,42.1,years
+Kranjska Gora,Tourist,2017,Average Age,47.7,years
+Ljubljana,Capital,2017,Average Age,42.4,years
+Maribor,Capital,2017,Average Age,44.8,years
+Murska Sobota,Capital,2017,Average Age,45.6,years
+Nova Gorica,Capital,2017,Average Age,44.6,years
+Novo mesto,Capital,2017,Average Age,41.6,years
+Piran,Tourist,2017,Average Age,45.3,years
+Bled,Tourist,2018,Average Age,45.2,years
+Slovenija,Country,2018,Average Age,43.2,years
+Bohinj,Tourist,2018,Average Age,44.8,years
+Bovec,Tourist,2018,Average Age,47.8,years
+Celje,Capital,2018,Average Age,43.9,years
+Koper,Capital,2018,Average Age,43.7,years
+Kranj,Capital,2018,Average Age,42.4,years
+Kranjska Gora,Tourist,2018,Average Age,48.1,years
+Ljubljana,Capital,2018,Average Age,42.5,years
+Maribor,Capital,2018,Average Age,44.9,years
+Murska Sobota,Capital,2018,Average Age,46.0,years
+Nova Gorica,Capital,2018,Average Age,45.0,years
+Novo mesto,Capital,2018,Average Age,41.8,years
+Piran,Tourist,2018,Average Age,45.6,years
+Bled,Tourist,2019,Average Age,45.5,years
+Slovenija,Country,2019,Average Age,43.4,years
+Bohinj,Tourist,2019,Average Age,45.2,years
+Bovec,Tourist,2019,Average Age,47.9,years
+Celje,Capital,2019,Average Age,44.1,years
+Koper,Capital,2019,Average Age,43.8,years
+Kranj,Capital,2019,Average Age,42.5,years
+Kranjska Gora,Tourist,2019,Average Age,48.5,years
+Ljubljana,Capital,2019,Average Age,42.6,years
+Maribor,Capital,2019,Average Age,44.9,years
+Murska Sobota,Capital,2019,Average Age,46.3,years
+Nova Gorica,Capital,2019,Average Age,45.2,years
+Novo mesto,Capital,2019,Average Age,41.8,years
+Piran,Tourist,2019,Average Age,45.9,years
+Bled,Tourist,2020,Average Age,45.8,years
+Slovenija,Country,2020,Average Age,43.5,years
+Bohinj,Tourist,2020,Average Age,45.2,years
+Bovec,Tourist,2020,Average Age,48.0,years
+Celje,Capital,2020,Average Age,44.2,years
+Koper,Capital,2020,Average Age,44.0,years
+Kranj,Capital,2020,Average Age,42.6,years
+Kranjska Gora,Tourist,2020,Average Age,48.5,years
+Ljubljana,Capital,2020,Average Age,42.6,years
+Maribor,Capital,2020,Average Age,45.0,years
+Murska Sobota,Capital,2020,Average Age,46.5,years
+Nova Gorica,Capital,2020,Average Age,45.4,years
+Novo mesto,Capital,2020,Average Age,41.8,years
+Piran,Tourist,2020,Average Age,46.3,years
+Bled,Tourist,2021,Average Age,45.6,years
+Slovenija,Country,2021,Average Age,43.7,years
+Bohinj,Tourist,2021,Average Age,44.8,years
+Bovec,Tourist,2021,Average Age,47.9,years
+Celje,Capital,2021,Average Age,44.5,years
+Koper,Capital,2021,Average Age,44.1,years
+Kranj,Capital,2021,Average Age,42.7,years
+Kranjska Gora,Tourist,2021,Average Age,44.6,years
+Ljubljana,Capital,2021,Average Age,42.7,years
+Maribor,Capital,2021,Average Age,44.8,years
+Murska Sobota,Capital,2021,Average Age,47.0,years
+Nova Gorica,Capital,2021,Average Age,45.6,years
+Novo mesto,Capital,2021,Average Age,42.0,years
+Piran,Tourist,2021,Average Age,46.2,years
+Bled,Tourist,2022,Average Age,46.0,years
+Slovenija,Country,2022,Average Age,43.8,years
+Bohinj,Tourist,2022,Average Age,45.2,years
+Bovec,Tourist,2022,Average Age,48.5,years
+Celje,Capital,2022,Average Age,44.5,years
+Koper,Capital,2022,Average Age,44.4,years
+Kranj,Capital,2022,Average Age,43.1,years
+Kranjska Gora,Tourist,2022,Average Age,45.7,years
+Ljubljana,Capital,2022,Average Age,42.7,years
+Maribor,Capital,2022,Average Age,45.0,years
+Murska Sobota,Capital,2022,Average Age,47.3,years
+Nova Gorica,Capital,2022,Average Age,45.8,years
+Novo mesto,Capital,2022,Average Age,42.2,years
+Piran,Tourist,2022,Average Age,46.6,years
+Bled,Tourist,2023,Average Age,46.2,years
+Slovenija,Country,2023,Average Age,44.0,years
+Bohinj,Tourist,2023,Average Age,45.4,years
+Bovec,Tourist,2023,Average Age,49.2,years
+Celje,Capital,2023,Average Age,44.7,years
+Koper,Capital,2023,Average Age,44.5,years
+Kranj,Capital,2023,Average Age,43.1,years
+Kranjska Gora,Tourist,2023,Average Age,48.6,years
+Ljubljana,Capital,2023,Average Age,42.9,years
+Maribor,Capital,2023,Average Age,45.2,years
+Murska Sobota,Capital,2023,Average Age,47.4,years
+Nova Gorica,Capital,2023,Average Age,45.9,years
+Novo mesto,Capital,2023,Average Age,42.4,years
+Piran,Tourist,2023,Average Age,47.0,years
+Bled,Tourist,2008,Annual Salary,10676.88,EUR/year
+Slovenija,Country,2008,Annual Salary,10797.6,EUR/year
+Bohinj,Tourist,2008,Annual Salary,8734.44,EUR/year
+Bovec,Tourist,2008,Annual Salary,9272.16,EUR/year
+Celje,Capital,2008,Annual Salary,10639.8,EUR/year
+Koper,Capital,2008,Annual Salary,11302.44,EUR/year
+Kranj,Capital,2008,Annual Salary,11148.72,EUR/year
+Kranjska Gora,Tourist,2008,Annual Salary,10331.52,EUR/year
+Ljubljana,Capital,2008,Annual Salary,12508.2,EUR/year
+Maribor,Capital,2008,Annual Salary,10453.08,EUR/year
+Murska Sobota,Capital,2008,Annual Salary,9148.44,EUR/year
+Nova Gorica,Capital,2008,Annual Salary,11658.6,EUR/year
+Novo mesto,Capital,2008,Annual Salary,11903.4,EUR/year
+Piran,Tourist,2008,Annual Salary,10355.76,EUR/year
+Bled,Tourist,2009,Annual Salary,10794.12,EUR/year
+Slovenija,Country,2009,Annual Salary,11160.0,EUR/year
+Bohinj,Tourist,2009,Annual Salary,8811.0,EUR/year
+Bovec,Tourist,2009,Annual Salary,9360.48,EUR/year
+Celje,Capital,2009,Annual Salary,10970.28,EUR/year
+Koper,Capital,2009,Annual Salary,11679.96,EUR/year
+Kranj,Capital,2009,Annual Salary,11418.24,EUR/year
+Kranjska Gora,Tourist,2009,Annual Salary,10375.44,EUR/year
+Ljubljana,Capital,2009,Annual Salary,12975.24,EUR/year
+Maribor,Capital,2009,Annual Salary,10908.84,EUR/year
+Murska Sobota,Capital,2009,Annual Salary,10008.6,EUR/year
+Nova Gorica,Capital,2009,Annual Salary,11935.92,EUR/year
+Novo mesto,Capital,2009,Annual Salary,12257.4,EUR/year
+Piran,Tourist,2009,Annual Salary,10902.24,EUR/year
+Bled,Tourist,2010,Annual Salary,11104.2,EUR/year
+Slovenija,Country,2010,Annual Salary,11599.44,EUR/year
+Bohinj,Tourist,2010,Annual Salary,9096.96,EUR/year
+Bovec,Tourist,2010,Annual Salary,9877.32,EUR/year
+Celje,Capital,2010,Annual Salary,11303.16,EUR/year
+Koper,Capital,2010,Annual Salary,11937.6,EUR/year
+Kranj,Capital,2010,Annual Salary,11853.0,EUR/year
+Kranjska Gora,Tourist,2010,Annual Salary,10432.08,EUR/year
+Ljubljana,Capital,2010,Annual Salary,13283.4,EUR/year
+Maribor,Capital,2010,Annual Salary,11341.92,EUR/year
+Murska Sobota,Capital,2010,Annual Salary,10731.84,EUR/year
+Nova Gorica,Capital,2010,Annual Salary,12334.68,EUR/year
+Novo mesto,Capital,2010,Annual Salary,12789.12,EUR/year
+Piran,Tourist,2010,Annual Salary,11274.24,EUR/year
+Bled,Tourist,2011,Annual Salary,11397.72,EUR/year
+Slovenija,Country,2011,Annual Salary,11848.68,EUR/year
+Bohinj,Tourist,2011,Annual Salary,9432.36,EUR/year
+Bovec,Tourist,2011,Annual Salary,10533.48,EUR/year
+Celje,Capital,2011,Annual Salary,11592.36,EUR/year
+Koper,Capital,2011,Annual Salary,12120.36,EUR/year
+Kranj,Capital,2011,Annual Salary,12105.48,EUR/year
+Kranjska Gora,Tourist,2011,Annual Salary,10688.28,EUR/year
+Ljubljana,Capital,2011,Annual Salary,13507.68,EUR/year
+Maribor,Capital,2011,Annual Salary,11575.68,EUR/year
+Murska Sobota,Capital,2011,Annual Salary,10828.08,EUR/year
+Nova Gorica,Capital,2011,Annual Salary,12395.64,EUR/year
+Novo mesto,Capital,2011,Annual Salary,13011.84,EUR/year
+Piran,Tourist,2011,Annual Salary,11495.04,EUR/year
+Bled,Tourist,2012,Annual Salary,11407.44,EUR/year
+Slovenija,Country,2012,Annual Salary,11897.28,EUR/year
+Bohinj,Tourist,2012,Annual Salary,9442.32,EUR/year
+Bovec,Tourist,2012,Annual Salary,10475.76,EUR/year
+Celje,Capital,2012,Annual Salary,11626.08,EUR/year
+Koper,Capital,2012,Annual Salary,12196.32,EUR/year
+Kranj,Capital,2012,Annual Salary,12334.56,EUR/year
+Kranjska Gora,Tourist,2012,Annual Salary,10533.24,EUR/year
+Ljubljana,Capital,2012,Annual Salary,13499.64,EUR/year
+Maribor,Capital,2012,Annual Salary,11628.84,EUR/year
+Murska Sobota,Capital,2012,Annual Salary,10864.44,EUR/year
+Nova Gorica,Capital,2012,Annual Salary,12264.48,EUR/year
+Novo mesto,Capital,2012,Annual Salary,13243.32,EUR/year
+Piran,Tourist,2012,Annual Salary,11316.12,EUR/year
+Bled,Tourist,2013,Annual Salary,11541.48,EUR/year
+Slovenija,Country,2013,Annual Salary,11964.12,EUR/year
+Bohinj,Tourist,2013,Annual Salary,9652.56,EUR/year
+Bovec,Tourist,2013,Annual Salary,11231.4,EUR/year
+Celje,Capital,2013,Annual Salary,11631.6,EUR/year
+Koper,Capital,2013,Annual Salary,12245.88,EUR/year
+Kranj,Capital,2013,Annual Salary,12330.24,EUR/year
+Kranjska Gora,Tourist,2013,Annual Salary,10579.32,EUR/year
+Ljubljana,Capital,2013,Annual Salary,13507.32,EUR/year
+Maribor,Capital,2013,Annual Salary,11596.8,EUR/year
+Murska Sobota,Capital,2013,Annual Salary,10948.44,EUR/year
+Nova Gorica,Capital,2013,Annual Salary,12195.36,EUR/year
+Novo mesto,Capital,2013,Annual Salary,13396.08,EUR/year
+Piran,Tourist,2013,Annual Salary,11106.84,EUR/year
+Bled,Tourist,2014,Annual Salary,11699.16,EUR/year
+Slovenija,Country,2014,Annual Salary,12064.92,EUR/year
+Bohinj,Tourist,2014,Annual Salary,9746.52,EUR/year
+Bovec,Tourist,2014,Annual Salary,11169.12,EUR/year
+Celje,Capital,2014,Annual Salary,11812.32,EUR/year
+Koper,Capital,2014,Annual Salary,12357.12,EUR/year
+Kranj,Capital,2014,Annual Salary,12266.04,EUR/year
+Kranjska Gora,Tourist,2014,Annual Salary,10639.44,EUR/year
+Ljubljana,Capital,2014,Annual Salary,13568.88,EUR/year
+Maribor,Capital,2014,Annual Salary,11657.52,EUR/year
+Murska Sobota,Capital,2014,Annual Salary,11299.08,EUR/year
+Nova Gorica,Capital,2014,Annual Salary,12207.36,EUR/year
+Novo mesto,Capital,2014,Annual Salary,13750.44,EUR/year
+Piran,Tourist,2014,Annual Salary,11077.2,EUR/year
+Bled,Tourist,2015,Annual Salary,11291.52,EUR/year
+Slovenija,Country,2015,Annual Salary,12158.76,EUR/year
+Bohinj,Tourist,2015,Annual Salary,9587.4,EUR/year
+Bovec,Tourist,2015,Annual Salary,11220.84,EUR/year
+Celje,Capital,2015,Annual Salary,11867.4,EUR/year
+Koper,Capital,2015,Annual Salary,12593.88,EUR/year
+Kranj,Capital,2015,Annual Salary,12411.72,EUR/year
+Kranjska Gora,Tourist,2015,Annual Salary,10609.56,EUR/year
+Ljubljana,Capital,2015,Annual Salary,13683.96,EUR/year
+Maribor,Capital,2015,Annual Salary,11769.6,EUR/year
+Murska Sobota,Capital,2015,Annual Salary,11512.92,EUR/year
+Nova Gorica,Capital,2015,Annual Salary,12326.4,EUR/year
+Novo mesto,Capital,2015,Annual Salary,13662.72,EUR/year
+Piran,Tourist,2015,Annual Salary,11043.36,EUR/year
+Bled,Tourist,2016,Annual Salary,11556.36,EUR/year
+Slovenija,Country,2016,Annual Salary,12361.92,EUR/year
+Bohinj,Tourist,2016,Annual Salary,9941.76,EUR/year
+Bovec,Tourist,2016,Annual Salary,11372.52,EUR/year
+Celje,Capital,2016,Annual Salary,12014.76,EUR/year
+Koper,Capital,2016,Annual Salary,12798.96,EUR/year
+Kranj,Capital,2016,Annual Salary,12532.44,EUR/year
+Kranjska Gora,Tourist,2016,Annual Salary,10804.08,EUR/year
+Ljubljana,Capital,2016,Annual Salary,13917.96,EUR/year
+Maribor,Capital,2016,Annual Salary,11967.0,EUR/year
+Murska Sobota,Capital,2016,Annual Salary,11763.36,EUR/year
+Nova Gorica,Capital,2016,Annual Salary,12502.8,EUR/year
+Novo mesto,Capital,2016,Annual Salary,13788.72,EUR/year
+Piran,Tourist,2016,Annual Salary,11156.76,EUR/year
+Bled,Tourist,2017,Annual Salary,12110.64,EUR/year
+Slovenija,Country,2017,Annual Salary,12744.0,EUR/year
+Bohinj,Tourist,2017,Annual Salary,10383.84,EUR/year
+Bovec,Tourist,2017,Annual Salary,11607.24,EUR/year
+Celje,Capital,2017,Annual Salary,12368.4,EUR/year
+Koper,Capital,2017,Annual Salary,13207.92,EUR/year
+Kranj,Capital,2017,Annual Salary,12874.2,EUR/year
+Kranjska Gora,Tourist,2017,Annual Salary,11257.32,EUR/year
+Ljubljana,Capital,2017,Annual Salary,14370.72,EUR/year
+Maribor,Capital,2017,Annual Salary,12317.88,EUR/year
+Murska Sobota,Capital,2017,Annual Salary,12146.76,EUR/year
+Nova Gorica,Capital,2017,Annual Salary,12880.32,EUR/year
+Novo mesto,Capital,2017,Annual Salary,14080.32,EUR/year
+Piran,Tourist,2017,Annual Salary,11362.32,EUR/year
+Bled,Tourist,2018,Annual Salary,12618.48,EUR/year
+Slovenija,Country,2018,Annual Salary,13112.88,EUR/year
+Bohinj,Tourist,2018,Annual Salary,10821.6,EUR/year
+Bovec,Tourist,2018,Annual Salary,11736.36,EUR/year
+Celje,Capital,2018,Annual Salary,12670.32,EUR/year
+Koper,Capital,2018,Annual Salary,13468.08,EUR/year
+Kranj,Capital,2018,Annual Salary,13237.8,EUR/year
+Kranjska Gora,Tourist,2018,Annual Salary,11700.84,EUR/year
+Ljubljana,Capital,2018,Annual Salary,14777.64,EUR/year
+Maribor,Capital,2018,Annual Salary,12580.56,EUR/year
+Murska Sobota,Capital,2018,Annual Salary,12528.96,EUR/year
+Nova Gorica,Capital,2018,Annual Salary,13162.44,EUR/year
+Novo mesto,Capital,2018,Annual Salary,14613.36,EUR/year
+Piran,Tourist,2018,Annual Salary,11543.16,EUR/year
+Bled,Tourist,2019,Annual Salary,13001.16,EUR/year
+Slovenija,Country,2019,Annual Salary,13602.0,EUR/year
+Bohinj,Tourist,2019,Annual Salary,11312.16,EUR/year
+Bovec,Tourist,2019,Annual Salary,12164.28,EUR/year
+Celje,Capital,2019,Annual Salary,13122.72,EUR/year
+Koper,Capital,2019,Annual Salary,14116.56,EUR/year
+Kranj,Capital,2019,Annual Salary,13584.0,EUR/year
+Kranjska Gora,Tourist,2019,Annual Salary,12276.24,EUR/year
+Ljubljana,Capital,2019,Annual Salary,15379.92,EUR/year
+Maribor,Capital,2019,Annual Salary,13017.84,EUR/year
+Murska Sobota,Capital,2019,Annual Salary,13154.28,EUR/year
+Nova Gorica,Capital,2019,Annual Salary,13679.4,EUR/year
+Novo mesto,Capital,2019,Annual Salary,15434.28,EUR/year
+Piran,Tourist,2019,Annual Salary,12016.56,EUR/year
+Bled,Tourist,2020,Annual Salary,13447.68,EUR/year
+Slovenija,Country,2020,Annual Salary,14503.8,EUR/year
+Bohinj,Tourist,2020,Annual Salary,11579.64,EUR/year
+Bovec,Tourist,2020,Annual Salary,13144.08,EUR/year
+Celje,Capital,2020,Annual Salary,13999.8,EUR/year
+Koper,Capital,2020,Annual Salary,14745.0,EUR/year
+Kranj,Capital,2020,Annual Salary,14264.76,EUR/year
+Kranjska Gora,Tourist,2020,Annual Salary,12150.12,EUR/year
+Ljubljana,Capital,2020,Annual Salary,16549.08,EUR/year
+Maribor,Capital,2020,Annual Salary,13981.08,EUR/year
+Murska Sobota,Capital,2020,Annual Salary,14355.84,EUR/year
+Nova Gorica,Capital,2020,Annual Salary,14222.16,EUR/year
+Novo mesto,Capital,2020,Annual Salary,16484.04,EUR/year
+Piran,Tourist,2020,Annual Salary,12500.64,EUR/year
+Bled,Tourist,2021,Annual Salary,14356.44,EUR/year
+Slovenija,Country,2021,Annual Salary,15243.6,EUR/year
+Bohinj,Tourist,2021,Annual Salary,12527.64,EUR/year
+Bovec,Tourist,2021,Annual Salary,13521.0,EUR/year
+Celje,Capital,2021,Annual Salary,14811.0,EUR/year
+Koper,Capital,2021,Annual Salary,15385.08,EUR/year
+Kranj,Capital,2021,Annual Salary,15030.96,EUR/year
+Kranjska Gora,Tourist,2021,Annual Salary,13587.24,EUR/year
+Ljubljana,Capital,2021,Annual Salary,17307.48,EUR/year
+Maribor,Capital,2021,Annual Salary,14705.52,EUR/year
+Murska Sobota,Capital,2021,Annual Salary,15003.0,EUR/year
+Nova Gorica,Capital,2021,Annual Salary,15049.44,EUR/year
+Novo mesto,Capital,2021,Annual Salary,17211.36,EUR/year
+Piran,Tourist,2021,Annual Salary,13098.12,EUR/year
+Bled,Tourist,2022,Annual Salary,15033.12,EUR/year
+Slovenija,Country,2022,Annual Salary,15823.68,EUR/year
+Bohinj,Tourist,2022,Annual Salary,13389.0,EUR/year
+Bovec,Tourist,2022,Annual Salary,14140.68,EUR/year
+Celje,Capital,2022,Annual Salary,15245.4,EUR/year
+Koper,Capital,2022,Annual Salary,16390.56,EUR/year
+Kranj,Capital,2022,Annual Salary,15629.4,EUR/year
+Kranjska Gora,Tourist,2022,Annual Salary,14482.92,EUR/year
+Ljubljana,Capital,2022,Annual Salary,17970.72,EUR/year
+Maribor,Capital,2022,Annual Salary,15076.68,EUR/year
+Murska Sobota,Capital,2022,Annual Salary,15291.72,EUR/year
+Nova Gorica,Capital,2022,Annual Salary,15621.36,EUR/year
+Novo mesto,Capital,2022,Annual Salary,18077.76,EUR/year
+Piran,Tourist,2022,Annual Salary,13701.96,EUR/year
+Bled,Tourist,2023,Annual Salary,16338.36,EUR/year
+Slovenija,Country,2023,Annual Salary,17341.44,EUR/year
+Bohinj,Tourist,2023,Annual Salary,14396.28,EUR/year
+Bovec,Tourist,2023,Annual Salary,15365.04,EUR/year
+Celje,Capital,2023,Annual Salary,16636.56,EUR/year
+Koper,Capital,2023,Annual Salary,17686.56,EUR/year
+Kranj,Capital,2023,Annual Salary,17380.44,EUR/year
+Kranjska Gora,Tourist,2023,Annual Salary,16029.0,EUR/year
+Ljubljana,Capital,2023,Annual Salary,19615.56,EUR/year
+Maribor,Capital,2023,Annual Salary,16609.44,EUR/year
+Murska Sobota,Capital,2023,Annual Salary,16790.76,EUR/year
+Nova Gorica,Capital,2023,Annual Salary,17155.56,EUR/year
+Novo mesto,Capital,2023,Annual Salary,20003.04,EUR/year
+Piran,Tourist,2023,Annual Salary,15092.52,EUR/year
+Bled,Tourist,2023,Property Value,3860,EUR/m²
+Bohinj,Tourist,2023,Property Value,3930,EUR/m²
+Bovec,Tourist,2023,Property Value,1360,EUR/m²
+Celje,Capital,2023,Property Value,2180,EUR/m²
+Koper,Capital,2023,Property Value,3890,EUR/m²
+Kranj,Capital,2023,Property Value,3100,EUR/m²
+Kranjska Gora,Tourist,2023,Property Value,4570,EUR/m²
+Ljubljana,Capital,2023,Property Value,3990,EUR/m²
+Maribor,Capital,2023,Property Value,2130,EUR/m²
+Murska Sobota,Capital,2023,Property Value,1300,EUR/m²
+Nova Gorica,Capital,2023,Property Value,2590,EUR/m²
+Novo mesto,Capital,2023,Property Value,2530,EUR/m²
+Piran,Tourist,2023,Property Value,3890,EUR/m²
+Slovenija,Country,2023,Property Value,2610,EUR/m²
