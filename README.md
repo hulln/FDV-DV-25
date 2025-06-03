@@ -9,6 +9,7 @@ This repository contains my work for the **Data Visualization** course (FDV-DV-2
 
 ## Repository structure
 
+```
 FDV-DV-25/                   # main GitHub repo
 ├── Assignment_1/            # first assignment
 │   ├── data/
@@ -25,6 +26,7 @@ FDV-DV-25/                   # main GitHub repo
 │   ├── output/
 │   ├── scripts/
 └── README.md
+```
 
 ## Notes
 
