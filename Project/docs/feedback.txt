@@ -1,0 +1,7 @@
+* layout, it has to be only one page
+- Chrats, especially first, hard to understand
+- missing legends
+- If average age is high, salary is not seen --> change how you present this, e.g. using two semicircles (up for age, down for salary).
+- Too much long texts
+-  You write "Rising costs, stagnant wages", but there is no time dimnesion in here
+- add annotations (e.g. COVID)
